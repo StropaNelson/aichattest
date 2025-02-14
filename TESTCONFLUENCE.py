@@ -2,7 +2,7 @@ import requests
 import json
 import streamlit as st
 
-DATABRICKS_TOKEN = "dapi6ba93ba1d0fa1635b0928ac277848ac4"
+DATABRICKS_TOKEN = ""
 
 SYSTEM_PROMPT = """
 Você é um assistente especializado no Dashboard de Autorizações Mensais do HUBi, voce ajuda o usuarios encontrar informações la dentro.
